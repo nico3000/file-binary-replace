@@ -1,0 +1,1 @@
+Command line tool to quickly replace strings inside files. Main purpose is to replace string literals in *.dll and *.exe files.
